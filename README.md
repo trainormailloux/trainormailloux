@@ -24,6 +24,7 @@ I'm a **B.S. Cybersecurity** student at **Merrimack College** (class of 2030), i
 | Project | What it is | Tech |
 |---|---|---|
 | 🛡️ **[personal-vpn](https://github.com/trainormailloux/personal-vpn)** | A free, self-hosted WireGuard VPN: a one-command Linux server setup plus a one-click Windows app with live connection stats | Python · WireGuard · Bash · Linux |
+| 📈 **[trading-bot](https://github.com/trainormailloux/trading-bot)** | A multi-strategy algorithmic trading bot for Alpaca with ATR position sizing, trailing stops, a drawdown circuit breaker and Telegram alerts, running 24/7 in Docker on my homelab | Python · pandas · Docker · Alpaca API |
 | 🔒 **file-encryptor** | A command-line tool for encrypting and decrypting files | Python · Cryptography |
 | 📘 **Coursework** | Merrimack College coursework (Java, Discrete Math) | Java |
 
