@@ -1,11 +1,11 @@
 {
   "stats": {
-    "name": "Trainor Mailloux",
+    "name": "trainormailloux",
     "login": "trainormailloux",
     "followers": 0,
     "stars": 0,
     "forks": 0,
-    "commits": 0,
+    "commits": 14,
     "prs": 0,
     "issues": 0,
     "contributed": 5,
@@ -14,7 +14,7 @@
   "languages": [
     [
       "Python",
-      138791
+      149207
     ],
     [
       "Shell",
