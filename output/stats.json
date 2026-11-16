@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "name": "Trainor Mailloux",
+    "login": "trainormailloux",
+    "followers": 0,
+    "stars": 0,
+    "forks": 0,
+    "commits": 0,
+    "prs": 0,
+    "issues": 0,
+    "contributed": 5,
+    "since": 2026
+  },
+  "languages": [
+    [
+      "Python",
+      138791
+    ],
+    [
+      "Shell",
+      4346
+    ],
+    [
+      "Batchfile",
+      349
+    ]
+  ]
+}

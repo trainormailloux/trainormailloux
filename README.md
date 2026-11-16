@@ -9,6 +9,11 @@
 
 </div>
 
+<div align="center">
+  <img src="output/stats.svg" width="440" alt="Trainor's GitHub stats">
+  <img src="output/languages.svg" width="320" alt="Most used languages">
+</div>
+
 ---
 
 ### 🧑‍💻 About me
